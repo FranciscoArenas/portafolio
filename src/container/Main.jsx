@@ -10,6 +10,8 @@ import ProfilesList from './profiles/List';
 import ListadoEmpresa from './_comun/ListadoEmpresa';
 import DetalleEmpresa from './_comun/DetalleEmpresa';
 
+import TechniciansList from './technicians/List';
+
 import MisVisitasMedicas from './_medico/MisVisitasMedicas';
 import MisCharlas from './_examinador/MisCharlas';
 
@@ -34,6 +36,8 @@ class Main extends Component {
           <PrivateRoute exact path="/home/empresas/:id" component={DetalleEmpresa} />
           <PrivateRoute exact path="/home/empresas/:id/medico" component={MisVisitasMedicas} />
           <PrivateRoute exact path="/home/empresas/:id/examinador" component={MisCharlas} />
+
+          <PrivateRoute exact path="/tecnicos" component={TechniciansList} />
         </div>
       </Router>);
   }
