@@ -34,17 +34,18 @@ class List extends Component {
 
     this.toggle = this.toggle.bind(this);
     this.state = {
-      activeTab: "1"
+      activeTab: "1",
+      data: [],
     };
   }
 
-  componentDidMount() {
-    UserService.findAll().then(data =>
-      this.setState({
-        data: data.filter(e => e.email !== email())
-      })
-    );
-  }
+  // componentDidMount() {
+  //   UserService.findAll().then(data =>
+  //     this.setState({
+  //       data: data.filter(e => e.email !== email())
+  //     })
+  //   );
+  // }
 
   toggle(tab) {
     if (this.state.activeTab !== tab) {
@@ -76,7 +77,7 @@ class List extends Component {
                       <CardText>Listado de Infomes</CardText>
                     </Col>
                     <Col>
-                      <Link to="/Tecnico/registrar" id="TooltipPerson">
+                      <Link to="/Tecnico/nuevoinforme" id="TooltipPerson">
                         <Button color="primary">
                           <FontAwesomeIcon icon="add" />
                           Nuevo Informe (Personas)
@@ -84,7 +85,7 @@ class List extends Component {
                       </Link>
                     </Col>
                     <Col>
-                      <Link to="/Tecnico/registrar" id="TooltipInstall">
+                      <Link to="/Tecnico/nuevoinforme" id="TooltipInstall">
                         <Button color="primary">
                           <FontAwesomeIcon icon="add" />
                           Nuevo Informe (instalacion)

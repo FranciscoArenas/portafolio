@@ -11,6 +11,7 @@ import ListadoEmpresa from './_comun/ListadoEmpresa';
 import DetalleEmpresa from './_comun/DetalleEmpresa';
 
 import TechniciansList from './technicians/List';
+import NewReport from './technicians/Register';
 
 import MisVisitasMedicas from './_medico/MisVisitasMedicas';
 import MisCharlas from './_examinador/MisCharlas';
@@ -38,11 +39,13 @@ class Main extends Component {
           <PrivateRoute exact path="/home/empresas/:id/examinador" component={MisCharlas} />
 
           <PrivateRoute exact path="/tecnicos" component={TechniciansList} />
+          <PrivateRoute exact path="/tecnicos/nuevoinforme" component={NewReport} />
         </div>
       </Router>);
   }
 }
-
+// valor:eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhZG1pbl9zYWZlLnRlY25pY29Ac2FmZS5jbCIsImlhdCI6MTU0MDc4MzEzOSwiZXhwIjoxNTQwODY5NTM5fQ.Siwlktwks0eyjn9O6YRfEogT6QgdStYI5p47VbjONnY
+// valor:{"name":"Alba Rosales R","email":"admin_safe.tecnico@safe.cl","profiles":[{"id":1,"displayName":"Tecnico","naturalKey":"TECNICO"},{"id":2,"displayName":"Admin Safe","naturalKey":"ADMIN_SAFE"}]}
 const isLogin = () => {
   return window.localStorage.getItem('token') || false;
 };
