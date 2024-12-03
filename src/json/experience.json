@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "empresa": "Medios Regionales (Mercurio)",
+    "cargo": "Desarrollador de Software",
+    "fecha": "Octubre 2020 - Noviembre 2024",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollador de aplicaciones. Desarrollando bajo PHP, Framework Laravel, Vue 3, Nuxt, TypeScript y APIs (SOAP y REST)."
+  },
+  {
+    "id": 2,
+    "empresa": "Shipit",
+    "cargo": "Desarrollador de Software",
+    "fecha": "Mayo 2019 - Febrero 2020",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollador de aplicaciones. Desarrollando bajo PHP, JavaScript, Rails 3.6, MySQL, método REST, Git, Jira."
+  },
+  {
+    "id": 3,
+    "empresa": "Octano",
+    "cargo": "Desarrollador de Software",
+    "fecha": "Mayo 2017 - Abril 2019",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollador de plataformas web. Desarrollando bajo frameworks Laravel, CodeIgniter, ReactJS, MySQL, Material Design, Bootstrap, método REST, Git, Jira."
+  },
+  {
+    "id": 4,
+    "empresa": "Tourscaribechile",
+    "cargo": "Desarrollador de Software",
+    "fecha": "Mayo 2015 - Diciembre 2016",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollador de aplicación web. Desarrollada bajo framework CodeIgniter, MySQL, Bootstrap."
+  },
+  {
+    "id": 5,
+    "empresa": "LogosyLetras",
+    "cargo": "Desarrollador y Servicio Técnico",
+    "fecha": "Marzo 2014 - Diciembre 2014",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollador de página web. Desarrollada bajo HTML5, AngularJS, Bootstrap."
+  }
+]

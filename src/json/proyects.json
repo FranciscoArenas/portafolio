@@ -1,0 +1,237 @@
+[
+  {
+    "id": 1,
+    "nombre": "Suscripciones",
+    "fecha": "Octubre 2020 - Noviembre 2024",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de apps vue 3 + laravel",
+    "enlaces": "https://suscripciones.pasedigital.cl/",
+    "adicional": "Sitios internos"
+  },
+  {
+    "id": 2,
+    "nombre": "SoyChile",
+    "fecha": "Octubre 2020 - Noviembre 2024",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de apps nuxt.js",
+    "enlaces": "https://soychile.cl/",
+    "adicional": "Sitios internos"
+  },
+  {
+    "id": 3,
+    "nombre": "Teko",
+    "fecha": "Octubre 2020 - Noviembre 2024",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de apps laravel",
+    "enlaces": "https://teko.mediosregionales.cl/",
+    "adicional": "Sitios internos"
+  },
+  {
+    "id": 4,
+    "nombre": "Vma",
+    "fecha": "Octubre 2020 - Noviembre 2024",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de apps laravel",
+    "enlaces": "https://vma.mediosregionales.cl/",
+    "adicional": "Sitios internos"
+  },
+  {
+    "id": 5,
+    "nombre": "Sitio Chapacash",
+    "fecha": "Junio 2020 - Agosto 2020",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de página web, WordPress, Bootstrap.",
+    "enlaces": "https://www.chapacash.com.pe/"
+  },
+  {
+    "id": 6,
+    "nombre": "Totem Mall Quilín",
+    "fecha": "Abril 2020 - Junio 2020",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de aplicación mapa interactivo de mall en Laravel, JS, HTML, Sass.",
+    "enlaces": "uso interno"
+  },
+  {
+    "id": 7,
+    "nombre": "Aplicaciones Ecommerce",
+    "fecha": "Mayo 2019 - Febrero 2020",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de aplicaciones para integración de logística Ecommerce a plataformas WordPress, Prestashop, Shopify, VTEX.",
+    "enlaces": "https://profiles.wordpress.org/franciscoarenasp/"
+  },
+  {
+    "id": 8,
+    "nombre": "Proyecto Tiendapet",
+    "fecha": "Octubre 2018 - Abril 2019",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de plataforma web para venta de comida de mascotas, desarrollado bajo framework CodeIgniter, MySQL, Bootstrap, Git.",
+    "enlaces": "https://tiendapet.cl"
+  },
+  {
+    "id": 9,
+    "nombre": "Proyecto Mi Torre",
+    "fecha": "Enero 2019",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de plataforma web para alícuotas de comunidades, desarrollado bajo framework Laravel, método REST, MySQL, Material Design, Git.",
+    "enlaces": "uso interno"
+  },
+  {
+    "id": 10,
+    "nombre": "Proyecto DataUp",
+    "fecha": "Septiembre 2018",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de plataforma web utilizando React.js, método REST, MySQL, Material Design, Git.",
+    "enlaces": "uso interno"
+  },
+  {
+    "id": 11,
+    "nombre": "Proyecto Genau",
+    "fecha": "Agosto 2018",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de página web, desarrollado bajo PHP, Bootstrap, Git.",
+    "enlaces": "https://Genau.cl"
+  },
+  {
+    "id": 12,
+    "nombre": "Proyecto Octano",
+    "fecha": "Agosto 2018",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de página web, desarrollado bajo PHP, Bootstrap, Git.",
+    "enlaces": "https://octano.cl"
+  },
+  {
+    "id": 13,
+    "nombre": "Proyecto Tiendapet",
+    "fecha": "Julio 2018",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de plataforma web para venta de comida de mascotas, desarrollado bajo framework CodeIgniter, MySQL, Bootstrap, Git."
+  },
+  {
+    "id": 14,
+    "nombre": "Proyecto FindItAll Web",
+    "fecha": "Junio 2018",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de página web, desarrollado bajo PHP, Bootstrap, Git.",
+    "enlaces": "uso interno"
+  },
+  {
+    "id": 15,
+    "nombre": "Proyecto Verificate Web",
+    "fecha": "Junio 2018",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de página web, desarrollado bajo PHP, Bootstrap, Git.",
+    "enlaces": "uso interno"
+  },
+  {
+    "id": 16,
+    "nombre": "Proyecto Qwantiq",
+    "fecha": "Mayo 2018",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de plataforma web, desarrollado bajo CMS WordPress, MySQL, Bootstrap, Git.",
+    "enlaces": "https://qwantiq.cl"
+  },
+  {
+    "id": 17,
+    "nombre": "Proyecto Duoc 50 Años",
+    "fecha": "Abril 2018",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de plataforma web, desarrollado bajo CMS Drupal, método REST, MySQL, Bootstrap, Git.",
+    "enlaces": "http://www2.duoc.cl/50aniversario/hitos"
+  },
+  {
+    "id": 18,
+    "nombre": "Proyecto Fresska",
+    "fecha": "Marzo 2018",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de app web para veterinarias, toma de hora, desarrollado bajo PHP, MySQL, Bootstrap, Git.",
+    "enlaces": "https://www.fresska.cl/"
+  },
+  {
+    "id": 19,
+    "nombre": "Proyecto Avsa CRM",
+    "fecha": "Enero 2018",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de plataforma web para inmobiliarias, desarrollado bajo framework CodeIgniter, método REST, MySQL, Bootstrap, Git.",
+    "enlaces": "uso interno"
+  },
+  {
+    "id": 20,
+    "nombre": "Proyecto Avsa Inmobiliaria",
+    "fecha": "Enero 2018",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de página web para inmobiliarias, desarrollado bajo CMS WordPress, método REST, Git.",
+    "enlaces": "https://avsainmobiliaria.cl/"
+  },
+  {
+    "id": 21,
+    "nombre": "Proyecto Avsa Web",
+    "fecha": "Diciembre 2017",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de página web para inmobiliarias, desarrollado bajo CMS WordPress, método REST, Git.",
+    "enlaces": "uso interno"
+  },
+  {
+    "id": 22,
+    "nombre": "Proyecto Generaxxion",
+    "fecha": "Diciembre 2017",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de página web informativa de inmobiliaria, desarrollado bajo PHP, MySQL, Material Design, Git.",
+    "enlaces": "uso interno"
+  },
+  {
+    "id": 23,
+    "nombre": "Proyecto Domivet",
+    "fecha": "Diciembre 2017",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de app web para historial de pacientes para veterinarias, desarrollado bajo PHP, MySQL, Bootstrap, Git.",
+    "enlaces": "uso interno"
+  },
+  {
+    "id": 24,
+    "nombre": "Proyecto PTM",
+    "fecha": "Noviembre 2017",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de página web con carro de compra, desarrollado bajo CMS WordPress, MySQL, Bootstrap, Git.",
+    "enlaces": "https://ptm.cl/"
+  },
+  {
+    "id": 25,
+    "nombre": "Proyecto Avsa Propiedades",
+    "fecha": "Septiembre 2017",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de página web para inmobiliarias, desarrollado bajo CMS WordPress, método REST, Git.",
+    "enlaces": "uso interno"
+  },
+  {
+    "id": 26,
+    "nombre": "Proyecto Macvet",
+    "fecha": "Septiembre 2017",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de app web para veterinarias, toma de hora, desarrollado bajo PHP, MySQL, Bootstrap, Git.",
+    "enlaces": "uso interno"
+  },
+  {
+    "id": 27,
+    "nombre": "Proyecto Pedidos y Promesas",
+    "fecha": "Julio 2017",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de página web, desarrollado bajo framework Laravel, Angular, MySQL, método REST, Git.",
+    "enlaces": "uso interno"
+  },
+  {
+    "id": 28,
+    "nombre": "Proyecto Observatorio",
+    "fecha": "Junio 2017",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de página web, desarrollado bajo CMS WordPress, Git.",
+    "enlaces": "https://observatorio.cl/"
+  },
+  {
+    "id": 29,
+    "nombre": "Proyecto Topfer",
+    "fecha": "Mayo 2017",
+    "ubicacion": "Santiago, Chile",
+    "descripcion": "Desarrollo de página web con carro de compra, desarrollado bajo CMS WordPress, Git.",
+    "enlaces": "https://topfer.cl/"
+  }
+]

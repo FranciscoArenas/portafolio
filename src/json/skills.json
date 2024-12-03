@@ -1,0 +1,145 @@
+[
+  {
+    "categoria": "Sistemas Operativos",
+    "tecnologias": [
+      {
+        "nombre": "Windows",
+        "icono": "https://img.icons8.com/color/48/windows-10.png"
+      },
+      {
+        "nombre": "Linux",
+        "icono": "https://img.icons8.com/color/48/linux.png"
+      },
+      {
+        "nombre": "MacOS",
+        "icono": "https://img.icons8.com/color/48/mac-logo.png"
+      }
+    ]
+  },
+  {
+    "categoria": "Lenguajes de Programación",
+    "tecnologias": [
+      {
+        "nombre": "PHP",
+        "icono": "https://img.icons8.com/color/48/php.png"
+      },
+      {
+        "nombre": "C#",
+        "icono": "https://img.icons8.com/color/48/c-sharp-logo.png"
+      },
+      {
+        "nombre": "TypeScript",
+        "icono": "https://img.icons8.com/color/48/typescript.png"
+      },
+      {
+        "nombre": "JavaScript",
+        "icono": "https://img.icons8.com/color/48/javascript.png"
+      },
+      {
+        "nombre": "CSS",
+        "icono": "https://img.icons8.com/color/48/css3.png"
+      },
+      {
+        "nombre": "JSON",
+        "icono": "https://img.icons8.com/color/48/json.png"
+      },
+      {
+        "nombre": "HTML",
+        "icono": "https://img.icons8.com/color/48/html-5.png"
+      }
+    ]
+  },
+  {
+    "categoria": "Frameworks y Librerías",
+    "tecnologias": [
+      {
+        "nombre": "Symfony",
+        "icono": "https://img.icons8.com/color/48/symfony.png"
+      },
+      {
+        "nombre": "Laravel",
+        "icono": "https://img.icons8.com/?size=100&id=UG5EO81XNkPs&format=png&color=000000"
+      },
+      {
+        "nombre": "ReactJs",
+        "icono": "https://img.icons8.com/color/48/react-native.png"
+      },
+      {
+        "nombre": "Vue",
+        "icono": "https://img.icons8.com/color/48/vue-js.png"
+      },
+      {
+        "nombre": "Nuxt",
+        "icono": "https://img.icons8.com/color/48/nuxt-jc.png"
+      }
+    ]
+  },
+  {
+    "categoria": "UI Frameworks",
+    "tecnologias": [
+      {
+        "nombre": "Bootstrap",
+        "icono": "https://img.icons8.com/color/48/bootstrap.png"
+      },
+      {
+        "nombre": "Material Design",
+        "icono": "https://img.icons8.com/color/48/material-ui.png"
+      }
+    ]
+  },
+  {
+    "categoria": "Plataformas y CMS",
+    "tecnologias": [
+      {
+        "nombre": "WordPress",
+        "icono": "https://img.icons8.com/color/48/wordpress.png"
+      },
+      {
+        "nombre": "Shopify",
+        "icono": "https://img.icons8.com/color/48/shopify.png"
+      },
+      {
+        "nombre": "Prestashop",
+        "icono": "https://seeklogo.com/images/P/prestashop-logo-E97F09416E-seeklogo.com.png"
+      },
+      {
+        "nombre": "VTEX",
+        "icono": "https://www.google.com/s2/favicons?domain=https://brand.vtex.com&sz=128"
+      },
+      {
+        "nombre": "Node.js",
+        "icono": "https://img.icons8.com/color/48/nodejs.png"
+      }
+    ]
+  },
+  {
+    "categoria": "Bases de Datos",
+    "tecnologias": [
+      {
+        "nombre": "MySQL",
+        "icono": "https://img.icons8.com/color/48/mysql-logo.png"
+      },
+      {
+        "nombre": "SQL Server",
+        "icono": "https://img.icons8.com/color/48/microsoft-sql-server.png"
+      }
+    ]
+  },
+  {
+    "categoria": "Control de Versiones y Metodologías",
+    "tecnologias": [
+      {
+        "nombre": "Git",
+        "icono": "https://img.icons8.com/color/48/git.png"
+      },
+      {
+        "nombre": "Metodologías clásicas y ágiles",
+        "icono": "https://img.icons8.com/color/48/flow-chart.png"
+      },
+      {
+        "nombre": "Estándares de calidad y metodologías de ingeniería de software",
+        "icono": "https://img.icons8.com/color/48/engineering.png"
+      }
+    ]
+  }
+]
