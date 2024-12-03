@@ -4,12 +4,16 @@ import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import vueDevTools from 'vite-plugin-vue-devtools'
 
-export default defineConfig({
-  base: '/portafolio/',
-  plugins: [vue(), vueDevTools()],
-  resolve: {
-    alias: {
-      '@': fileURLToPath(new URL('./src/assets', import.meta.url)),
+export default defineConfig(({ mode }) => {
+  const isGitHubPages = process.env.GITHUB_ACTIONS || mode === 'production'
+
+  return {
+    base: isGitHubPages ? '/portafolio/' : '/', // Ruta base dinámica
+    plugins: [vue(), vueDevTools()],
+    resolve: {
+      alias: {
+        '@': fileURLToPath(new URL('./src/assets', import.meta.url)),
+      },
     },
-  },
+  }
 })
