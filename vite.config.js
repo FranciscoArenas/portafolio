@@ -4,17 +4,12 @@ import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import vueDevTools from 'vite-plugin-vue-devtools'
 
-// https://vite.dev/config/
 export default defineConfig({
+  base: '/portafolio/',
   plugins: [vue(), vueDevTools()],
   resolve: {
     alias: {
-      '@': fileURLToPath(new URL('./src/assets', import.meta.url)), // Alias para `@` apuntando a `src`
-    },
-  },
-  css: {
-    preprocessorOptions: {
-      // No es necesario usar `additionalData` para importar Tailwind
+      '@': fileURLToPath(new URL('./src/assets', import.meta.url)),
     },
   },
 })
