@@ -1,19 +1,19 @@
 [
   {
     "id": 1,
-    "empresa": "Medios Regionales (Mercurio)",
-    "cargo": "Desarrollador de Software",
-    "fecha": "Octubre 2020 - Noviembre 2024",
+    "empresa": "LogosyLetras",
+    "cargo": "Desarrollador y Servicio Técnico",
+    "fecha": "Marzo 2014 - Diciembre 2014",
     "ubicacion": "Santiago, Chile",
-    "descripcion": "Desarrollador de aplicaciones. Desarrollando bajo PHP, Framework Laravel, Vue 3, Nuxt, TypeScript y APIs (SOAP y REST)."
+    "descripcion": "Desarrollador de página web. Desarrollada bajo HTML5, AngularJS, Bootstrap."
   },
   {
     "id": 2,
-    "empresa": "Shipit",
+    "empresa": "Tourscaribechile",
     "cargo": "Desarrollador de Software",
-    "fecha": "Mayo 2019 - Febrero 2020",
+    "fecha": "Mayo 2015 - Diciembre 2016",
     "ubicacion": "Santiago, Chile",
-    "descripcion": "Desarrollador de aplicaciones. Desarrollando bajo PHP, JavaScript, Rails 3.6, MySQL, método REST, Git, Jira."
+    "descripcion": "Desarrollador de aplicación web. Desarrollada bajo framework CodeIgniter, MySQL, Bootstrap."
   },
   {
     "id": 3,
@@ -25,18 +25,34 @@
   },
   {
     "id": 4,
-    "empresa": "Tourscaribechile",
+    "empresa": "Shipit",
     "cargo": "Desarrollador de Software",
-    "fecha": "Mayo 2015 - Diciembre 2016",
+    "fecha": "Mayo 2019 - Febrero 2020",
     "ubicacion": "Santiago, Chile",
-    "descripcion": "Desarrollador de aplicación web. Desarrollada bajo framework CodeIgniter, MySQL, Bootstrap."
+    "descripcion": "Desarrollador de aplicaciones. Desarrollando bajo PHP, JavaScript, Rails 3.6, MySQL, método REST, Git, Jira."
   },
   {
     "id": 5,
-    "empresa": "LogosyLetras",
-    "cargo": "Desarrollador y Servicio Técnico",
-    "fecha": "Marzo 2014 - Diciembre 2014",
+    "empresa": "Medios Regionales (Mercurio)",
+    "cargo": "Desarrollador de Software",
+    "fecha": "Octubre 2020 - Noviembre 2024",
     "ubicacion": "Santiago, Chile",
-    "descripcion": "Desarrollador de página web. Desarrollada bajo HTML5, AngularJS, Bootstrap."
+    "descripcion": "Desarrollador de aplicaciones. Desarrollando bajo PHP, Framework Laravel, Vue 3, Nuxt, TypeScript y APIs (SOAP y REST)."
+  },
+  {
+    "id": 6,
+    "empresa": "Talana",
+    "cargo": "Software Engineer",
+    "fecha": "Julio 2025 - Septiembre 2025",
+    "ubicacion": "Remoto",
+    "descripcion": "Desarrollo microservicios con Nestjs, TypeScript, PostgreSQL, AWS, Docker, GitLab CI/CD."
+  },
+  {
+    "id": 7,
+    "empresa": "Zerviz Group",
+    "cargo": "Full Stack Developer",
+    "fecha": "Septiembre 2025 - Presente",
+    "ubicacion": "Presencial - Santiago, Chile",
+    "descripcion": "Desarrollo de aplicaciones web con Vue 3, Nuxt3, TypeScript, Node.js, AWS, Docker, GitHub Actions."
   }
 ]

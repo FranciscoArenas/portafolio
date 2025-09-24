@@ -36,16 +36,8 @@
         "icono": "https://img.icons8.com/color/48/javascript.png"
       },
       {
-        "nombre": "CSS",
-        "icono": "https://img.icons8.com/color/48/css3.png"
-      },
-      {
-        "nombre": "JSON",
-        "icono": "https://img.icons8.com/color/48/json.png"
-      },
-      {
-        "nombre": "HTML",
-        "icono": "https://img.icons8.com/color/48/html-5.png"
+        "nombre": "SQL",
+        "icono": "https://img.icons8.com/color/48/sql.png"
       }
     ]
   },
@@ -61,7 +53,7 @@
         "icono": "https://img.icons8.com/?size=100&id=UG5EO81XNkPs&format=png&color=000000"
       },
       {
-        "nombre": "ReactJs",
+        "nombre": "React",
         "icono": "https://img.icons8.com/color/48/react-native.png"
       },
       {
@@ -71,6 +63,14 @@
       {
         "nombre": "Nuxt",
         "icono": "https://img.icons8.com/color/48/nuxt-jc.png"
+      },
+      {
+        "nombre": "jQuery",
+        "icono": "https://img.icons8.com/color/48/jquery.png"
+      },
+      {
+        "nombre": "GSAP",
+        "icono": "https://greensock.com/gsap-avatar.png"
       }
     ]
   },
@@ -84,6 +84,31 @@
       {
         "nombre": "Material Design",
         "icono": "https://img.icons8.com/color/48/material-ui.png"
+      },
+      {
+        "nombre": "Tailwind CSS",
+        "icono": "https://img.icons8.com/color/48/tailwindcss.png"
+      },
+      {
+        "nombre": "Ant Design",
+        "icono": "https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"
+      },
+      {
+        "nombre": "Chakra UI",
+        "icono": "https://img.icons8.com/color/48/chakra-ui.png"
+      },
+      {
+        "nombre": "Element Plus",
+        "icono": "https://avatars.githubusercontent.com/u/33920669?s=200&v=4"
+      }
+    ]
+  },
+  {
+    "categoria": "Entornos de Ejecución",
+    "tecnologias": [
+      {
+        "nombre": "Node.js",
+        "icono": "https://img.icons8.com/color/48/nodejs.png"
       }
     ]
   },
@@ -105,10 +130,6 @@
       {
         "nombre": "VTEX",
         "icono": "https://www.google.com/s2/favicons?domain=https://brand.vtex.com&sz=128"
-      },
-      {
-        "nombre": "Node.js",
-        "icono": "https://img.icons8.com/color/48/nodejs.png"
       }
     ]
   },
@@ -118,28 +139,134 @@
       {
         "nombre": "MySQL",
         "icono": "https://img.icons8.com/color/48/mysql-logo.png"
-      },
-      {
-        "nombre": "SQL Server",
-        "icono": "https://img.icons8.com/color/48/microsoft-sql-server.png"
       }
     ]
   },
   {
-    "categoria": "Control de Versiones y Metodologías",
+    "categoria": "Metodologías y Control de Versiones",
     "tecnologias": [
       {
         "nombre": "Git",
         "icono": "https://img.icons8.com/color/48/git.png"
       },
       {
-        "nombre": "Metodologías clásicas y ágiles",
+        "nombre": "Metodologías Ágiles",
         "icono": "https://img.icons8.com/color/48/flow-chart.png"
-      },
-      {
-        "nombre": "Estándares de calidad y metodologías de ingeniería de software",
-        "icono": "https://img.icons8.com/color/48/engineering.png"
       }
     ]
-  }
+  },
+  {
+    "categoria": "Principios y Patrones de Diseño",
+    "tecnologias": [
+      {
+        "nombre": "SOLID",
+        "icono": "https://img.icons8.com/fluency/48/checked-checkbox.png"
+      }
+    ]
+  },
+  {
+    "categoria": "Formatos de Datos",
+    "tecnologias": [
+      {
+        "nombre": "JSON",
+        "icono": "https://img.icons8.com/color/48/json.png"
+      },
+      {
+        "nombre": "XML",
+        "icono": "https://img.icons8.com/color/48/xml.png"
+      },
+      {
+        "nombre": "YAML",
+        "icono": "https://raw.githubusercontent.com/file-icons/icons/master/svg/YAML.svg"
+      },
+      {
+        "nombre": "CSV",
+        "icono": "https://img.icons8.com/color/48/csv.png"
+      }
+    ]
+  },
+  {
+    "categoria": "Lenguajes de Marcado y Estilos",
+    "tecnologias": [
+      {
+        "nombre": "HTML",
+        "icono": "https://img.icons8.com/color/48/html-5.png"
+      },
+      {
+        "nombre": "CSS",
+        "icono": "https://img.icons8.com/color/48/css3.png"
+      },
+      {
+        "nombre": "Sass",
+        "icono": "https://img.icons8.com/color/48/sass.png"
+      }
+    ]
+  },
+  {
+    "categoria": "Herramientas",
+    "tecnologias": [
+      {
+        "nombre": "Docker",
+        "icono": "https://img.icons8.com/color/48/docker.png"
+      },
+      {
+        "nombre": "Postman",
+        "icono": "https://img.icons8.com/dusk/64/postman-api.png"
+      },
+      {
+        "nombre": "Visual Studio Code",
+        "icono": "https://img.icons8.com/color/48/visual-studio-code-2019.png"
+      },
+      {
+        "nombre": "Jira",
+        "icono": "https://img.icons8.com/color/48/jira.png"
+      },
+      {
+        "nombre": "Trello",
+        "icono": "https://img.icons8.com/color/48/trello.png"
+      },
+      {
+        "nombre": "Figma",
+        "icono": "https://img.icons8.com/color/48/figma--v1.png"
+      }
+    ]
+  },
+{
+  "categoria": "Arquitecturas y Protocolos",
+  "tecnologias": [
+    {
+      "nombre": "REST",
+      "icono": "https://img.icons8.com/color/48/api-settings.png"
+    },
+    {
+      "nombre": "SOAP",
+      "icono": "https://img.icons8.com/color/48/soap.png"
+    }
+  ]
+},
+{
+  "categoria": "Otros",
+  "tecnologias": [
+    {
+      "nombre": "AWS",
+      "icono": "https://img.icons8.com/color/48/amazon-web-services.png"
+    },
+    {
+      "nombre": "Azure",
+      "icono": "https://img.icons8.com/color/48/azure-1.png"
+    },
+    {
+      "nombre": "Google Cloud",
+      "icono": "https://img.icons8.com/color/48/google-cloud.png"
+    },
+    {
+      "nombre": "Heroku",
+      "icono": "https://img.icons8.com/color/48/heroku.png"
+    },
+    {
+      "nombre": "Netlify",
+      "icono": "https://www.netlify.com/v3/img/components/logomark.png"
+    }
+  ]
+}
 ]

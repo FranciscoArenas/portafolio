@@ -5,7 +5,7 @@
         Experiencia Profesional
       </h2>
       <div class="space-y-6">
-        <div v-for="job in jobs" :key="job.id" class="bg-gray-800 p-4 rounded-lg shadow-md">
+        <div v-for="job in jobs.slice().reverse()" :key="job.id" class="bg-gray-800 p-4 rounded-lg shadow-md">
           <h3 class="text-xl font-semibold">{{ job.empresa }}</h3>
           <p class="text-sm text-gray-300">{{ job.cargo }}</p>
           <p class="text-gray-400 mt-2">

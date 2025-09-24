@@ -1,17 +1,17 @@
 <template>
   <header class="bg-gray-800 fixed w-full z-10 shadow-md top-0">
     <nav class="container mx-auto flex justify-between items-center px-4">
-      <h1 class="text-2xl font-bold bg-indigo-500">Francisco Arenas</h1>
+      <h1 class="text-2xl font-bol">Francisco Arenas</h1>
 
       <button
-        class="hidden md:inline-block bg-indigo-500 px-4 py-2 border border-yellow-400 rounded hover:bg-yellow-400 hover:text-gray-800"
+        class="hidden md:inline-block border-indigo-500 hover:bg-indigo-400 px-4 py-2 border dark:border-yellow-400 rounded dark:hover:bg-yellow-400 hover:text-gray-800"
         @click="toggleLayout"
       >
         Alternar Diseño
       </button>
 
       <ThemeSwitch />
-      <button class="bg-indigo-500" @click="isMenuOpen = !isMenuOpen" v-if="isAlternateLayout">
+      <button class="" @click="isMenuOpen = !isMenuOpen" v-if="isAlternateLayout">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           class="h-6 w-6"
